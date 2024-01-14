@@ -1,0 +1,271 @@
+body {
+     background: #4c0009;
+     }
+#img1 {
+    background: #ff5f2a;
+    width: 100px;
+    border : 5px solid black;
+    position: absolute;
+    height: 100px;
+    top: 0%;
+    left: 35%;
+    transform: translate (-50% -50%);
+    
+}
+#img2 {
+    display : inline-block;
+    background: #ff5f2a;
+    width: 100px;
+    border : 5px solid black;
+    height: 100px;
+    float : right;
+    position: absolute;
+    top: 24%;
+    left: 35%;
+    
+    
+    
+}
+#img3 {
+      display : inline-block;
+    background: #ff5f2a;
+    width: 100px;
+    border : 5px solid black;
+    position: absolute;
+    top: 0%;
+    height: 100px;
+    left: 1%;
+    
+}
+#img4 {
+    display : inline-block;
+    background: #ff5f2a;
+    width: 100px;
+    border : 5px solid black;
+    height: 100px;
+    float : right;
+    position: absolute;
+    top: 0%;
+    left: 70%;
+    
+    
+    
+}
+
+ #button1 {
+     width: 100px;
+     height: 20px;
+     color: #ffb300;
+     background: #000000;
+     border-radius: 20px;
+     position: absolute;
+     top: 20%;
+     left: 36%;
+ }
+#button2 {
+     width: 100px;
+     height: 20px;
+     color: #ffb300;
+     background: #000000;
+     border-radius: 20px;
+     position: absolute;
+     top: 44%;
+     left: 36%;
+ }
+  #button3 {
+     width: 100px;
+     height: 20px;
+     color: #ffb300;
+     background: #000000;
+     border-radius: 20px;
+     position: absolute;
+     top: 20%;
+     left:70%;
+ }
+  #button4 {
+     width: 100px;
+     height: 20px;
+     color: #ffb300;
+     background: #000000;
+     border-radius: 20px;
+     position: absolute;
+     top: 20%;
+     right:70%;
+ }
+#button7 {
+     width: 100px;
+     height: 20px;
+     color: #ffb300;
+     background: #000000;
+     border-radius: 20px;
+     position: absolute;
+     top: 44%;
+     right:70%;
+ }
+#img7 {
+    display : inline-block;
+    background: #ff5f2a;
+    width: 100px;
+    border : 5px solid black;
+    height: 100px;
+    float : right;
+    position: absolute;
+    top: 24%;
+    right: 68%;
+       
+}
+#img6 {
+    display : inline-block;
+    background: #ff5f2a;
+    width: 100px;
+    border : 5px solid black;
+    height: 100px;
+    float : right;
+    position: absolute;
+    top: 24%;
+    left: 68%;
+       
+}
+#button6 {
+     width: 100px;
+     height: 20px;
+     color: #ffb300;
+     background: #000000;
+     border-radius: 20px;
+     position: absolute;
+     top: 44%;
+     left:70%;
+ }
+ #img8 {
+    display : inline-block;
+    background: #ff5f2a;
+    width: 100px;
+    border : 5px solid black;
+    height: 100px;
+    float : right;
+    position: absolute;
+    top: 48%;
+    left: 68%;
+       
+}
+#button8 {
+     width: 100px;
+     height: 20px;
+     color: #ffb300;
+     background: #000000;
+     border-radius: 20px;
+     position: absolute;
+     top: 68%;
+     left:70%;
+ }
+  #img9 {
+    display : inline-block;
+    background: #ff5f2a;
+    width: 100px;
+    border : 5px solid black;
+    height: 100px;
+    float : right;
+    position: absolute;
+    top: 48%;
+    left: 35%;
+       
+}
+#button9 {
+     width: 100px;
+     height: 20px;
+     color: #ffb300;
+     background: #000000;
+     border-radius: 20px;
+     position: absolute;
+     top: 68%;
+     left:36%;
+ }
+   #img10 {
+    display : inline-block;
+    background: #ff5f2a;
+    width: 100px;
+    border : 5px solid black;
+    height: 100px;
+    float : right;
+    position: absolute;
+    top: 48%;
+    right:1 %;
+       
+}
+#button10 {
+     width: 100px;
+     height: 20px;
+     color: #ffb300;
+     background: #000000;
+     border-radius: 20px;
+     position: absolute;
+     top: 68%;
+     right: 70 %;
+ }
+  #img11 {
+    display : inline-block;
+    background: #ff5f2a;
+    width: 100px;
+    border : 5px solid black;
+    height: 100px;
+    float : right;
+    position: absolute;
+    top: 72%;
+    right:1 %;
+       
+}
+#button11 {
+     width: 100px;
+     height: 20px;
+     color: #ffb300;
+     background: #000000;
+     border-radius: 20px;
+     position: absolute;
+     top: 92%;
+     right: 70 %;
+ }
+  #img12 {
+    display : inline-block;
+    background: #ff5f2a;
+    width: 100px;
+    border : 5px solid black;
+    height: 100px;
+    float : right;
+    position: absolute;
+    top: 72%;
+    left: 35%;
+       
+}
+#button12 {
+     width: 100px;
+     height: 20px;
+     color: #ffb300;
+     background: #000000;
+     border-radius: 20px;
+     position: absolute;
+     top: 92%;
+     left:  35%;
+ }
+  #img13 {
+    display : inline-block;
+    background: #ff5f2a;
+    width: 100px;
+    border : 5px solid black;
+    height: 100px;
+    float : right;
+    position: absolute;
+    top: 72%;
+    left: 70%;
+       
+}
+#button13 {
+     width: 100px;
+     height: 20px;
+     color: #ffb300;
+     background: #000000;
+     border-radius: 20px;
+     position: absolute;
+     top: 92%;
+     left:  70%;
+ }
+ 
